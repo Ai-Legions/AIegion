@@ -5,7 +5,7 @@ import { ModuleManager } from "../module/module-manager";
 import { Store } from "../store";
 import {
   AVG_WORDS_PER_TOKEN,
-  agentName,
+  agentName, legion
   countTokens as countTokensInText,
   messageSourceName,
 } from "../util";
